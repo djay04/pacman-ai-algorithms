@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore PowerPoint files and requirements
+~HW1_Introduction.pptx
+HW1_Introduction.pptx
+requirements.txt
