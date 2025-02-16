@@ -23,3 +23,8 @@
    .idea/
    .vscode/
    *.swp
+
+   # Files
+   ~HW1_Introduction.pptx
+   HW1_Introduction.pptx
+   requirements.txt
